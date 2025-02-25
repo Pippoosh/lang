@@ -5,8 +5,8 @@ Note that it is definitely not turing complete and should never actually be used
 PS: Anyone who wants to help fix the if statement is welcome to do so. The AI got stuck on it for an hour in an endless loop
 
 ## Usage ##
-Write LANG code in code.bs (bs for BASIC, its inspired by MS BASIC so Claude decided to call the file that)
-Run `cargo run -- --compile`
+Write LANG code in code.bs (bs for BASIC, its inspired by MS BASIC so Claude decided to call the file that) \n
+Run `cargo run -- --compile` \n
 Run `./code`
 
 ## Examples ##
