@@ -9,6 +9,8 @@ Write LANG code in code.bs (bs for BASIC, its inspired by MS BASIC so Claude dec
 Run `cargo run -- --compile`, then
 run `./code`
 
+Windows only btw (sorry Linux and MacOS users)
+
 ## Examples ##
 There is one example and its in code.bs right now :(
 
