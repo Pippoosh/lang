@@ -1,0 +1,6 @@
+PRINT "Enter a number:"
+INPUT N
+FOR I = 1 TO 5
+    PRINT N * I
+NEXT I
+END
